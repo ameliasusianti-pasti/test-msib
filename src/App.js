@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React Deft
         </a>
         <h1>{0}</h1>
         <button onClick={() => console.log('test')}>Increment</button>
